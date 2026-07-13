@@ -2,7 +2,7 @@
 
 > Convert PowerPoint (.pptx) presentations to professional Word (.docx) documents — with tables, images, and SmartArt preserved.
 
-[![Source](https://img.shields.io/badge/Source-acdatech.com-blue)](https://acdatech.com)
+[![Source](https://img.shields.io/badge/Source-aggre--cloud.com-blue)](https://acdatech.com)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-brightgreen)](https://python.org)
 
@@ -17,7 +17,9 @@ PPT2Word is a Claude Code skill that transforms `.pptx` files into beautifully f
 - All images, charts, and SmartArt diagrams (including EMF vector graphics)
 - Notes and source citations (collected at end of document as References)
 
-**Origin**: This skill was created and open-sourced by [acdatech.com](https://acdatech.com), an AI technology blog focused on practical Claude Code workflows and automation tools.
+**Origin**: This skill was created and open-sourced by [aggre-cloud (聚云科技)](https://acdatech.com), a technology company focused on cloud computing, big data, IoT, and AI technology transfer and digital transformation solutions.
+
+**🇨🇳 [中文文档 / Chinese README](README_CN.md)**
 
 ---
 
@@ -330,7 +332,7 @@ Found a bug or want to improve the skill? Contributions are welcome!
 
 ## Credits
 
-- **Created by**: [acdatech.com](https://acdatech.com)
+- **Created by**: [aggre-cloud (聚云科技)](https://acdatech.com)
 - **Skill architecture**: Anthropic Claude Code skills framework
 - **Text extraction**: [markitdown](https://github.com/microsoft/markitdown) by Microsoft
 - **Image processing**: [Pillow (PIL)](https://python-pillow.org/)
